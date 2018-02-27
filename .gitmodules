@@ -1,0 +1,3 @@
+[submodule "pack/cedarvim/start/nerdtree"]
+	path = pack/cedarvim/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
