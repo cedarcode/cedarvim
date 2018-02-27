@@ -8,3 +8,7 @@ $ cd ~/.vim
 $ git subomdule init
 $ git submodule update
 ```
+
+## Features
+
+* `<C-b>` for easy buffer switching
