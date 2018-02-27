@@ -4,3 +4,6 @@
 [submodule "pack/cedarvim/start/vim-bundler"]
 	path = pack/cedarvim/start/vim-bundler
 	url = https://github.com/tpope/vim-bundler
+[submodule "pack/cedarvim/start/vim-rails"]
+	path = pack/cedarvim/start/vim-rails
+	url = https://github.com/tpope/vim-rails
