@@ -7,3 +7,6 @@
 [submodule "pack/cedarvim/start/vim-rails"]
 	path = pack/cedarvim/start/vim-rails
 	url = https://github.com/tpope/vim-rails
+[submodule "pack/cedarvim/start/vim-trailing-whitespace"]
+	path = pack/cedarvim/start/vim-trailing-whitespace
+	url = https://github.com/bronson/vim-trailing-whitespace.git
