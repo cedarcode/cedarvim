@@ -1,1 +1,1 @@
-set directory^=~/.vim/tmp/swapfiles//
+set directory^=~/.vim/.tmp/swapfiles//
