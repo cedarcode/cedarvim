@@ -13,3 +13,6 @@
 [submodule "pack/cedarvim/start/ctrlp.vim"]
 	path = pack/cedarvim/start/ctrlp.vim
 	url = https://github.com/ctrlpvim/ctrlp.vim.git
+[submodule "pack/cedarvim/start/vim-gitgutter"]
+	path = pack/cedarvim/start/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter
