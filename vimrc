@@ -4,5 +4,3 @@
 " https://github.com/tpope/vim-pathogen#installation
 " https://github.com/tpope/vim-pathogen#native-vim-package-management
 execute pathogen#infect()
-syntax on
-filetype plugin indent on

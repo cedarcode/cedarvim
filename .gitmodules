@@ -25,3 +25,6 @@
 [submodule "pack/cedarvim/start/vim-endwise"]
 	path = pack/cedarvim/start/vim-endwise
 	url = https://github.com/tpope/vim-endwise
+[submodule "pack/cedarvim/start/vim-sensible"]
+	path = pack/cedarvim/start/vim-sensible
+	url = https://github.com/tpope/vim-sensible
