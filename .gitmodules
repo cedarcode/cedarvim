@@ -19,3 +19,6 @@
 [submodule "pack/cedarvim/start/vim-fugitive"]
 	path = pack/cedarvim/start/vim-fugitive
 	url = https://github.com/tpope/vim-fugitive
+[submodule "pack/cedarvim/start/vim-rhubarb"]
+	path = pack/cedarvim/start/vim-rhubarb
+	url = https://github.com/tpope/vim-rhubarb
