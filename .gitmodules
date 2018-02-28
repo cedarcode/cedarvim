@@ -34,3 +34,6 @@
 [submodule "pack/cedarvim/start/vim-unimpaired"]
 	path = pack/cedarvim/start/vim-unimpaired
 	url = https://github.com/tpope/vim-unimpaired
+[submodule "pack/cedarvim/start/delimitMate"]
+	path = pack/cedarvim/start/delimitMate
+	url = https://github.com/Raimondi/delimitMate
