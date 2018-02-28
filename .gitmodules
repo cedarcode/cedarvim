@@ -28,3 +28,6 @@
 [submodule "pack/cedarvim/start/vim-sensible"]
 	path = pack/cedarvim/start/vim-sensible
 	url = https://github.com/tpope/vim-sensible
+[submodule "pack/cedarvim/start/nerdcommenter"]
+	path = pack/cedarvim/start/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter
