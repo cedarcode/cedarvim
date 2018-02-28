@@ -16,3 +16,6 @@
 [submodule "pack/cedarvim/start/vim-gitgutter"]
 	path = pack/cedarvim/start/vim-gitgutter
 	url = https://github.com/airblade/vim-gitgutter
+[submodule "pack/cedarvim/start/vim-fugitive"]
+	path = pack/cedarvim/start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
