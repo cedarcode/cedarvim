@@ -22,3 +22,6 @@
 [submodule "pack/cedarvim/start/vim-rhubarb"]
 	path = pack/cedarvim/start/vim-rhubarb
 	url = https://github.com/tpope/vim-rhubarb
+[submodule "pack/cedarvim/start/vim-endwise"]
+	path = pack/cedarvim/start/vim-endwise
+	url = https://github.com/tpope/vim-endwise
