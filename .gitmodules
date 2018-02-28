@@ -31,3 +31,6 @@
 [submodule "pack/cedarvim/start/nerdcommenter"]
 	path = pack/cedarvim/start/nerdcommenter
 	url = https://github.com/scrooloose/nerdcommenter
+[submodule "pack/cedarvim/start/vim-unimpaired"]
+	path = pack/cedarvim/start/vim-unimpaired
+	url = https://github.com/tpope/vim-unimpaired
