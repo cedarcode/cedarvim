@@ -1,5 +1,9 @@
 # cedarvim
 
+## Prerequisites
+
+* [Vim](https://github.com/vim/vim) 7.4+ (8.0+ recommended)
+
 ## Install
 
 ```
