@@ -1,11 +1,23 @@
 # cedarvim
 
-## Install
+## Prerequisites
+
+* [Vim](https://github.com/vim/vim) 7.4+ (8.0+ recommended)
+
+## Installing
 
 ```
 $ git clone https://github.com/cedarcode/cedarvim ~/.vim
 $ cd ~/.vim
 $ git subomdule init
+$ git submodule update
+```
+
+## Updating
+
+```
+$ cd ~/.vim
+$ git pull
 $ git submodule update
 ```
 
@@ -22,28 +34,28 @@ $ git submodule update
 
 #### Navigation
 
-* ctrlp.vim
-* nerdtree
+* [ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim)
+* [nerdtree](https://github.com/scrooloose/nerdtree)
 
 #### Autocompletion
 
-* delimitMate
+* [delimitMate](https://github.com/Raimondi/delimitMate)
 
 #### Git
 
-* vim-fugitive
-* vim-gitgutter
-* vim-rhubarb
+* [vim-fugitive](https://github.com/tpope/vim-fugitive)
+* [vim-gitgutter](https://github.com/airblade/vim-gitgutter)
+* [vim-rhubarb](https://github.com/tpope/vim-rhubarb)
 
 #### Ruby on Rails
 
-* vim-bundler
-* vim-rails
-* vim-endwise
+* [vim-bundler](https://github.com/tpope/vim-bundler)
+* [vim-rails](https://github.com/tpope/vim-rails)
+* [vim-endwise](https://github.com/tpope/vim-endwise)
 
 #### Other
 
-* nerdcommenter
-* vim-sensible
-* vim-trailing-whitespaces
-* vim-unimpaired
+* [nerdcommenter](https://github.com/scrooloose/nerdcommenter)
+* [vim-sensible](https://github.com/tpope/vim-sensible)
+* [vim-trailing-whitespaces](https://github.com/bronson/vim-trailing-whitespace)
+* [vim-unimpaired](https://github.com/tpope/vim-unimpaired)
