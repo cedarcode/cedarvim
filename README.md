@@ -4,12 +4,20 @@
 
 * [Vim](https://github.com/vim/vim) 7.4+ (8.0+ recommended)
 
-## Install
+## Installing
 
 ```
 $ git clone https://github.com/cedarcode/cedarvim ~/.vim
 $ cd ~/.vim
 $ git subomdule init
+$ git submodule update
+```
+
+## Updating
+
+```
+$ cd ~/.vim
+$ git pull
 $ git submodule update
 ```
 
