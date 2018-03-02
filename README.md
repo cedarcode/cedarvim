@@ -26,6 +26,8 @@ $ git submodule update
 * Shows line numbers by default
 * Uses 2-spaces indentation by default
 * Uses system clipboard by default
+* Mouse/trackpad enabled in all modes by default
+* `*.swp` files kept in hidden location to avoid dirty directories
 * `<C-b>` for easy buffer switching
 * `<C-Up>` and `<C-Down>` to move text lines up and down easily, in both normal and visual modes
 * `<C-n>` to toggle NERDTree
