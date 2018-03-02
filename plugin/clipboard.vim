@@ -1,2 +1,2 @@
 " use system clipboard by default
-set clipboard=unnamed
+set clipboard=unnamedplus
