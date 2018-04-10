@@ -9,7 +9,7 @@
 ```
 $ git clone https://github.com/cedarcode/cedarvim ~/.vim
 $ cd ~/.vim
-$ git subomdule init
+$ git submodule init
 $ git submodule update
 ```
 
@@ -25,7 +25,7 @@ $ git submodule update
 
 ### Navigation
 
-* `<C-p>` to quickly __serach__ and __open files__ and more via [ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) package
+* `<C-p>` to quickly __search__ and __open files__ and more via [ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) package
 * `<C-b>` to quickly go back to recently opened files
 * `<C-n>` to open/close __file explorer__ and more via [nerdtree](https://github.com/scrooloose/nerdtree) package
 
