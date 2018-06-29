@@ -37,3 +37,9 @@
 [submodule "pack/cedarvim/start/delimitMate"]
 	path = pack/cedarvim/start/delimitMate
 	url = https://github.com/Raimondi/delimitMate
+[submodule "pack/cedarvim/start/vim-javascript"]
+	path = pack/cedarvim/start/vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
+[submodule "pack/cedarvim/start/vim-jsx"]
+	path = pack/cedarvim/start/vim-jsx
+	url = https://github.com/mxw/vim-jsx.git
