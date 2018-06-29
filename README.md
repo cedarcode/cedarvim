@@ -29,10 +29,6 @@ $ git submodule update
 * `<C-b>` to quickly go back to recently opened files
 * `<C-n>` to open/close __file explorer__ and more via [nerdtree](https://github.com/scrooloose/nerdtree) package
 
-### Autocompletion
-
-* Auto closing of quotes, parenthesis, brackets and more via [delimitMate](https://github.com/Raimondi/delimitMate) package
-
 ### Git
 
 * Full git integration
