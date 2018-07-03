@@ -58,3 +58,4 @@ $ git submodule update
 * Mouse/trackpad enabled in all modes by default
 * `<C-Up>` and `<C-Down>` to move text lines up and down easily, in both normal and visual modes
 * `*.swp` files kept in hidden location to avoid dirty directories
+* Persistent undo and redo. E.g. You can undo after closing and reopening vim.
