@@ -1,2 +1,5 @@
 /.tmp/swapfiles/*
 !/.tmp/swapfiles/.gitkeep
+
+/.tmp/undofiles/*
+!/.tmp/undofiles/.gitkeep
