@@ -58,3 +58,7 @@ $ git submodule update
 * Mouse/trackpad enabled in all modes by default
 * `<C-Up>` and `<C-Down>` to move text lines up and down easily, in both normal and visual modes
 * `*.swp` files kept in hidden location to avoid dirty directories
+
+## Your own customizations
+
+Put any extra configuration and/or overrides in `~/.vimrc.after`. cedarvim will pick them up automatically.
