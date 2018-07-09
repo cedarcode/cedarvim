@@ -43,3 +43,6 @@
 [submodule "pack/cedarvim/start/ultisnips"]
 	path = pack/cedarvim/start/ultisnips
 	url = https://github.com/sirver/ultisnips
+[submodule "pack/cedarvim/start/html5.vim"]
+	path = pack/cedarvim/start/html5.vim
+	url = https://github.com/othree/html5.vim
