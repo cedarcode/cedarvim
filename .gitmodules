@@ -40,3 +40,6 @@
 [submodule "pack/cedarvim/start/vim-commentary"]
 	path = pack/cedarvim/start/vim-commentary
 	url = https://github.com/tpope/vim-commentary
+[submodule "pack/cedarvim/start/ultisnips"]
+	path = pack/cedarvim/start/ultisnips
+	url = https://github.com/sirver/ultisnips
