@@ -60,3 +60,18 @@ $ git submodule update
 ## Your own customizations
 
 Put any extra configuration and/or overrides in `~/.vimrc.after`. cedarvim will pick them up automatically.
+
+### Adding new plugin
+
+```
+$ cd ~/.vim
+$ git submodule add <plugin-git-url> pack/cedarvim/start/<plugin-name>
+```
+
+### Removing a plugin
+
+```
+$ cd ~/.vim
+$ git submodule deinit pack/cedarvim/start/<plugin-name>
+$ git rm pack/cedarvim/start/<plugin-name>
+```
