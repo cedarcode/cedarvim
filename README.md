@@ -45,7 +45,7 @@ $ git submodule update
 
 ### Other
 
-* `<leader>c<space>` to toggle code comment state of selected lines and more via [nerdcommenter](https://github.com/scrooloose/nerdcommenter) package
+* `gc` or `gcc` (depending on mode) to toggle source code commented state and more via [vim-commentary](https://github.com/tpope/vim-commentary) package
 * Highlights trailing whitespaces in red and provides `:FixWhitespace` to fix it via [vim-trailing-whitespaces](https://github.com/bronson/vim-trailing-whitespace) package
 * Several default settings recommended by [@tpope](https://github.com/tpope) via [vim-sensible](https://github.com/tpope/vim-sensible) package
 * 20+ key mapping/shortcuts recommended by [@tpope](https://github.com/tpope) via [vim-unimpaired](https://github.com/tpope/vim-unimpaired) package
