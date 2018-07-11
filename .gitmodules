@@ -28,9 +28,6 @@
 [submodule "pack/cedarvim/start/vim-sensible"]
 	path = pack/cedarvim/start/vim-sensible
 	url = https://github.com/tpope/vim-sensible
-[submodule "pack/cedarvim/start/nerdcommenter"]
-	path = pack/cedarvim/start/nerdcommenter
-	url = https://github.com/scrooloose/nerdcommenter
 [submodule "pack/cedarvim/start/vim-unimpaired"]
 	path = pack/cedarvim/start/vim-unimpaired
 	url = https://github.com/tpope/vim-unimpaired
@@ -40,3 +37,6 @@
 [submodule "pack/cedarvim/start/vim-jsx"]
 	path = pack/cedarvim/start/vim-jsx
 	url = https://github.com/mxw/vim-jsx.git
+[submodule "pack/cedarvim/start/vim-commentary"]
+	path = pack/cedarvim/start/vim-commentary
+	url = https://github.com/tpope/vim-commentary
