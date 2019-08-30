@@ -49,3 +49,6 @@
 [submodule "pack/cedarvim/start/vim-slim"]
 	path = pack/cedarvim/start/vim-slim
 	url = https://github.com/slim-template/vim-slim
+[submodule "pack/cedarvim/start/typescript-vim"]
+	path = pack/cedarvim/start/typescript-vim
+	url = https://github.com/leafgarland/typescript-vim
