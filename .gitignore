@@ -3,3 +3,5 @@
 
 /.tmp/undofiles/*
 !/.tmp/undofiles/.gitkeep
+
+/.netrwhist
