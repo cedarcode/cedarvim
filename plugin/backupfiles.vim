@@ -1,1 +1,1 @@
-set directory^=~/.vim/.tmp/backupfiles//
+set backupdir^=~/.vim/.tmp/backupfiles//
