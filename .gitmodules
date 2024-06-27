@@ -52,3 +52,9 @@
 [submodule "pack/cedarvim/start/yats.vim"]
 	path = pack/cedarvim/start/yats.vim
 	url = https://github.com/HerringtonDarkholme/yats.vim
+[submodule "pack/cedarvim/start/vim-lsp"]
+	path = pack/cedarvim/start/vim-lsp
+	url = https://github.com/prabirshrestha/vim-lsp.git
+[submodule "pack/cedarvim/start/vim-lsp-settings"]
+	path = pack/cedarvim/start/vim-lsp-settings
+	url = https://github.com/mattn/vim-lsp-settings.git
