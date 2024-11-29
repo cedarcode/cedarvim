@@ -52,3 +52,9 @@
 [submodule "pack/cedarvim/start/yats.vim"]
 	path = pack/cedarvim/start/yats.vim
 	url = https://github.com/HerringtonDarkholme/yats.vim
+[submodule "pack/cedarvim/start/fzf.vim"]
+	path = pack/cedarvim/start/fzf.vim
+	url = https://github.com/junegunn/fzf.vim.git
+[submodule "pack/cedarvim/start/fzf"]
+	path = pack/cedarvim/start/fzf
+	url = https://github.com/junegunn/fzf.git
