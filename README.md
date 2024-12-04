@@ -43,6 +43,15 @@ $ git submodule update
 * rails integration, e.g. `gf` for partials and others, `:Rails console`, `:Generate controller Blog`, among many other features via [vim-rails](https://github.com/tpope/vim-rails) package
 * Auto adds `end` after `if`, `do`, `def` and several other keywords via [vim-endwise](https://github.com/tpope/vim-endwise) package
 
+### LSP
+
+* Supports installing and using Language Server Protocols via [`vim-lsp`](https://github.com/prabirshrestha/vim-lsp) and [`vim-lsp-settings`](https://github.com/mattn/vim-lsp-settings) packages.
+* Adds custom mappings for some of the functions provided by vim-lsp:
+  * `gd` for navigating to the definition of the word under the cursor.
+  * `gpd` for peek at the definition of the word under the cursor.
+  * `gs` to take a look and navigate across the document symbols.
+  * `gS` to search through the workspace symbols.
+
 ### Other
 
 * `gc` or `gcc` (depending on mode) to toggle source code commented state and more via [vim-commentary](https://github.com/tpope/vim-commentary) package
