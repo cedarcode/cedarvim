@@ -1,3 +1,7 @@
+" disable projectionist on vim enter, also causes garbage to be written
+" to screen, also see https://github.com/tpope/vim-rails/issues/579
+let g:projectionist_vim_enter = 0
+
 "fzf.vim configs
 nmap <C-\> :Rg! <C-R><C-W><CR>
 nmap <C-/> :RG!<space><CR>
