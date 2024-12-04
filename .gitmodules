@@ -64,3 +64,6 @@
 [submodule "pack/cedarvim/start/vim-lsp-settings"]
 	path = pack/cedarvim/start/vim-lsp-settings
 	url = https://github.com/mattn/vim-lsp-settings.git
+[submodule "pack/cedarvim/start/copilot.vim"]
+	path = pack/cedarvim/start/copilot.vim
+	url = https://github.com/github/copilot.vim.git
