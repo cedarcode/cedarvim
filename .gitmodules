@@ -67,3 +67,6 @@
 [submodule "pack/cedarvim/start/copilot.vim"]
 	path = pack/cedarvim/start/copilot.vim
 	url = https://github.com/github/copilot.vim.git
+[submodule "pack/cedarvim/start/asyncomplete.vim"]
+	path = pack/cedarvim/start/asyncomplete.vim
+	url = https://github.com/prabirshrestha/asyncomplete.vim

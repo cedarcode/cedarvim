@@ -28,6 +28,12 @@ nmap gS :LspWorkspaceSymbol<CR>
 imap <silent><script><expr> <Right> copilot#Accept("\<CR>")
 let g:copilot_no_tab_map = v:true
 
+"===== asyncomplete ====="
+
+inoremap <expr> <Tab>   pumvisible() ? "\<C-n>" : "\<Tab>"
+inoremap <expr> <S-Tab> pumvisible() ? "\<C-p>" : "\<S-Tab>"
+inoremap <expr> <cr>    pumvisible() ? asyncomplete#close_popup() : "\<cr>"
+
 " source user customizations if defined
 if filereadable(expand("~/.vimrc.after"))
   source ~/.vimrc.after
