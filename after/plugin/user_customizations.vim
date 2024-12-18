@@ -23,6 +23,11 @@ nmap gpd :LspPeekDefinition<CR>
 nmap gs :LspDocumentSymbol<CR>
 nmap gS :LspWorkspaceSymbol<CR>
 
+"======= copilot ======="
+
+imap <silent><script><expr> <Right> copilot#Accept("\<CR>")
+let g:copilot_no_tab_map = v:true
+
 " source user customizations if defined
 if filereadable(expand("~/.vimrc.after"))
   source ~/.vimrc.after
