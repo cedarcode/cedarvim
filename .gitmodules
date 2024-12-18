@@ -76,3 +76,6 @@
 [submodule "pack/cedarvim/start/asyncomplete-look"]
 	path = pack/cedarvim/start/asyncomplete-look
 	url = https://github.com/hiterm/asyncomplete-look
+[submodule "pack/cedarvim/start/asyncomplete-buffer.vim"]
+	path = pack/cedarvim/start/asyncomplete-buffer.vim
+	url = https://github.com/prabirshrestha/asyncomplete-buffer.vim
