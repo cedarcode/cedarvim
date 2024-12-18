@@ -73,3 +73,6 @@
 [submodule "pack/cedarvim/start/asyncomplete-lsp.vim"]
 	path = pack/cedarvim/start/asyncomplete-lsp.vim
 	url = https://github.com/prabirshrestha/asyncomplete-lsp.vim
+[submodule "pack/cedarvim/start/asyncomplete-look"]
+	path = pack/cedarvim/start/asyncomplete-look
+	url = https://github.com/hiterm/asyncomplete-look

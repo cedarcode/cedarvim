@@ -33,6 +33,11 @@ let g:copilot_no_tab_map = v:true
 inoremap <expr> <Tab>   pumvisible() ? "\<C-n>" : "\<Tab>"
 inoremap <expr> <S-Tab> pumvisible() ? "\<C-p>" : "\<S-Tab>"
 inoremap <expr> <cr>    pumvisible() ? asyncomplete#close_popup() : "\<cr>"
+au User asyncomplete_setup call asyncomplete#register_source({
+    \ 'name': 'look',
+    \ 'allowlist': ['text', 'markdown'],
+    \ 'completor': function('asyncomplete#sources#look#completor'),
+    \ })
 
 " source user customizations if defined
 if filereadable(expand("~/.vimrc.after"))
